@@ -21,7 +21,7 @@ Ensure you have Python 3.x installed on your machine. You will also need to inst
 ### Steps
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/voice-activated-chatbot.git
+git clone https://github.com/hemantkumarlearning/Voice_Chatbot.git
 cd voice-activated-chatbot
 ```
 2. Install the required dependencies:
